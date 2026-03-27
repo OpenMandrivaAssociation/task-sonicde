@@ -73,7 +73,7 @@ Requires:	speech-dispatcher
 Requires:	myspell-dictionary
 Requires:	sddm
 Requires:	sddm-kcm
-Requires:	sddm-silver
+Requires:	silver-sddm
 Requires:  sonic-workspace-wallpapers
 Requires:	skanlite
 Requires:	khelpcenter
