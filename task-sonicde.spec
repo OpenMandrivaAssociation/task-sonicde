@@ -73,7 +73,8 @@ Requires:	speech-dispatcher
 Requires:	myspell-dictionary
 Requires:	sddm
 Requires:	sddm-kcm
-Requires:	sddm-theme-breeze
+Requires:	sddm-silver
+Requires:  sonic-workspace-wallpapers
 Requires:	skanlite
 Requires:	khelpcenter
 Requires:	partitionmanager
@@ -114,6 +115,7 @@ Requires:	nomacs
 Requires:	pinentry-qt6
 Requires:	libproxy-kde
 Requires:	libproxy-networkmanager
+Requires:  silver-theme
 Requires:	breeze
 Requires:	breeze-icons
 Requires:	oxygen-sounds
