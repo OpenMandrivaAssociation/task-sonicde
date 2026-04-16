@@ -1,6 +1,6 @@
 Summary:	Metapackage for SonicDE
 Name:		task-sonicde
-Version:	6.6.3
+Version:	6.6.4
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/SonicDE
@@ -131,7 +131,7 @@ Requires:	sonic-desktop-interface >= %{version}
 Requires:	plasma-vault
 Requires:	plasma-browser-integration
 Requires:	sonic-workspace >= %{version}
-Requires:	kdeplasma-addons
+Requires:	sonic-workspace-addons
 Requires:	sonic-system-info >= %{version}
 # Requires:	kio-extras
 Requires:	kmenuedit
